@@ -3,4 +3,3 @@ def hello():
 	print("1234567890")
 
 hello()
-1+2+3
